@@ -1,0 +1,23 @@
+.appbar{
+    padding:5px;
+}
+.container{
+    width:100%;
+    height:650px;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.paper{
+    width:500px;
+    height:500px;
+    display:grid;
+    justify-content: center;
+    align-items: center;
+}
+.text{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
